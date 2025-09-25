@@ -5,13 +5,13 @@ import "tailwindcss";
 import Hero from './Hero.jsx'
 import Features from './Features.jsx'
 import Section from './Section.jsx'
-import Maps from './Maps.jsx'
+// import Maps from './Maps.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Hero />
     <Features />
     <Section />
-    <Maps />
+    {/* <Maps /> */}
   </StrictMode>,
 )
