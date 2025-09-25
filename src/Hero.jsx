@@ -14,7 +14,7 @@ function Hero() {
                 className="relative z-10 text-center text-white px-4">
                     <span className=""></span>
                     <nav>
-                        <img src="" alt="" className="logo" />
+                        <img src="Logo.png" alt="" className="logo" />
                         <div className="menu">
                             <ul>
                                 <li className="lien">
