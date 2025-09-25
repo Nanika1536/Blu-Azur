@@ -45,26 +45,27 @@ function Hero() {
                         <ul>
                             <li className="reseaux">
                                 <a href="" className="fb">
-                                    <img src="" alt="" className="fb" />
+                                    <img src="Facebook.png" alt="" className="fb" />
                                 </a>
                             </li>
                             <li className="reseaux">
                                 <a href="" className="yt">
-                                    <img src="" alt="" className="youtube" />
+                                    <img src="youtube.png" alt="" className="youtube" />
                                 </a>
                             </li>
                             <li className="reseaux">
                                 <a href="" className="tw">
-                                    <img src="" alt="" className="twiter" />
+                                    <img src="Twiter.png" alt="" className="twiter" />
                                 </a>
                             </li>
                             <li className="reseaux">
                                 <a href="" className="insta">
-                                    <img src="" alt="" className="intagram" />
+                                    <img src="Instagram.png" alt="" className="intagram" />
                                 </a>
                             </li>
                         </ul>
                     </div>
+                    <img src="residance_pierre.png" alt="" className="residance" />
                 </motion.div>
         </section>
     );
