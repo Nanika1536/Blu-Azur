@@ -12,6 +12,7 @@ function Hero() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 1 }}
                 className="relative z-10 text-center text-white px-4">
+                    <span className=""></span>
                     <nav>
                         <img src="" alt="" className="logo" />
                         <div className="menu">
