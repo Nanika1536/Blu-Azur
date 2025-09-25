@@ -1,6 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
+import "tailwindcss";
 import Hero from './Hero.jsx'
 import Features from './Features.jsx'
 import Section from './Section.jsx'
