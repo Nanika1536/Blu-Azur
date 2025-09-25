@@ -5,7 +5,7 @@ function Hero() {
     return (
         <section
             className="relative h-[90vh] flex items-center justify-center bg-cover bg-center"
-            style={{ backgroundImage: "url('Image de Fond.jpg')" }}>
+            style={{ backgroundImage: "url('Image_de_Fond.jpg')" }}>
             <div className="absolute inset-0 bg-black/50" />
                 <motion.div
                 initial={{ opacity: 0, y: 50 }}
